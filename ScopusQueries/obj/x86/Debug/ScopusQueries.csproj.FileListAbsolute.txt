@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\obj\x86\Debug\ScopusQueries.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\bin\Debug\ScopusQueries.exe.config
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\bin\Debug\ScopusQueries.exe
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\bin\Debug\ScopusQueries.pdb
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\obj\x86\Debug\ScopusQueries.exe
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries\ScopusQueries\obj\x86\Debug\ScopusQueries.pdb
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\ScopusQueries.exe.config
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\obj\x86\Debug\ScopusQueries.exe
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\obj\x86\Debug\ScopusQueries.pdb
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\ScopusQueries.exe
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\ScopusQueries.pdb
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\obj\x86\Debug\ScopusQueries.csprojResolveAssemblyReference.cache
