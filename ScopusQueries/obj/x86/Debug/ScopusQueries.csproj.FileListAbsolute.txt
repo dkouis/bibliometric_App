@@ -12,3 +12,6 @@ C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\S
 C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\ScopusQueries.pdb
 C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\bin\Debug\MySql.Data.dll
 C:\Users\Administrator\Desktop\code-sql\ScopusQueries2\ScopusQueries\obj\x86\Debug\ScopusQueries.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\code-sql\BibmetricsScopus_v4\ScopusQueries\bin\Debug\ScopusQueries.exe.config
+C:\Users\Administrator\Desktop\code-sql\BibmetricsScopus_v4\ScopusQueries\obj\x86\Debug\ScopusQueries.exe
+C:\Users\Administrator\Desktop\code-sql\BibmetricsScopus_v4\ScopusQueries\obj\x86\Debug\ScopusQueries.pdb

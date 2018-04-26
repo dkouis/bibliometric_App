@@ -28,6 +28,9 @@ namespace ScopusQueries
         static void Main(string[] args)
         {
 
+            //jim
+
+
             //using (StreamWriter w = File.AppendText("log.txt"))
             //{
 
